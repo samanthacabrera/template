@@ -3,7 +3,7 @@
 function Hero() {
     return (
         <div>
-            <div className="bg-red-400 space"></div>
+            <div className="space"></div>
             <h1 className="title">Kendrick vs Drake Timeline</h1>
             <div className="space"></div>
 

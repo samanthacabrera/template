@@ -1,6 +1,6 @@
 import Hero from './components/Hero'
 import './App.css'
-import './taildwind.css'
+import './tailwind.css'
 
 function App() {
   return (
