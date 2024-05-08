@@ -1,5 +1,6 @@
-import Hero from './components/Hero'
+import { useState } from 'react'
 import './App.css'
+import './tailwind.css'
 
 function App() {
   return (
